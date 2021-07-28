@@ -1,7 +1,7 @@
 ## Portfolio-Website
 Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 
-<a href="https://sauravmukherjee44.github.io/Portfolio-Saurav-Mukherjee/" target="_blank">**Visit Now** 🚀</a>
+<a href="https://shubhamr9172.github.io/Responsive-Portfolio-using-HTML-CSS/" target="_blank">**Visit Now** 🚀</a>
 
 
 ## 📌 Tech Stack
@@ -13,15 +13,15 @@ Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 #### Extras : Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawkto, Font Awesome, JSON, etc.
 
 ## 📌 Sneak Peek of Main Page 🙈 :
-![mockup720](https://github.com/shubhamr9172/Portfolio-Saurav-Mukherjee/blob/94498338de779cd693065dfb01b8ca1daab1eeef/assests/images/Screenshot%20(214).png)
-![skillsmockup](https://github.com/shubhamr9172/Portfolio-Saurav-Mukherjee/blob/577c41033c42fcd3568e2ca266dc4511d87f630b/assests/images/Screenshot%20(215).png)
+![mockup720](https://github.com/shubhamr9172/Responsive-Portfolio-using-HTML-CSS/blob/main/assests/images/projects/portfolio1.jpg)
+![skillsmockup](https://github.com/shubhamr9172/Responsive-Portfolio-using-HTML-CSS/blob/main/assests/images/Screenshot%20(215).png)
 
 
 <h2>📬 Contact</h2>
 
 If you want to contact me, you can reach me through below handles.
 
-&nbsp;&nbsp;<a href="https://www.linkedin.com/in/sauravmukherjee44/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
+&nbsp;&nbsp;<a href="https://www.linkedin.com/in/shubham-vivek-reddy-b3a15b158/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
 
 © 2021 Shubham Reddy
 
